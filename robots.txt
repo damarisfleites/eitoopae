@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oolarahlud.spinemodel.info/sitemap.xml
